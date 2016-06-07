@@ -2,7 +2,7 @@
 # Very basically it was to determine the win / lose / tie percentages
 # for two heads up texas hold-em players.
 # It is extremely slow but was not really meant for public consumption
-# Just dabbling in python and needed a project
+# Just dabbling in python and needed a project ~pm
 
 import operator
 import random
