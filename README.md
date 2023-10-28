@@ -3,7 +3,8 @@ Poker Probabilities - Texas Hold-em
 There are a few files in this repository that support calculating the best 5 card poker hand from a group of 5 or 7 cards.
 
 The Volume Testing notebook is a test that goes thru an entire deck to count the number of hands in a deck that fall into a particular category (e.g. Full House)
-It relays on hand specific functions in the poker.py Library.  
+It relays on hand specific functions in the poker.py library.   The results are then compared to Wikipedia poker probabilties to confirm access.  This is just one
+of several ways to test the validity of the library.
 
 The Unit Testing notebook, provides insight into the hand ranking calculations and associated scores.  It also does a test of the scores to provide confidence in the accuracy of the score ranking formula.
 
